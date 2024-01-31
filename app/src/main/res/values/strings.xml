@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseNotifications</string>
+    <string name="send_push_text">Send push</string>
+</resources>
